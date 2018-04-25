@@ -1,0 +1,11 @@
+<litpal>
+    <dbname value="liyang_weather"/>
+
+    <version value="1"/>
+
+    <list>
+        <mapping class="com.liyangweather.android.db.Province"/>
+        <mapping class="com.liyangweather.android.db.City"/>
+        <mapping class="com.liyangweather.android.db.County"/>
+    </list>
+</litpal>
